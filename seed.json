@@ -1,0 +1,166 @@
+{
+ "categories": [
+  {
+   "name": "Tactical & Travel Backpacks",
+   "slug": "backpacks",
+   "description": "Rugged backpacks built with 1000D Cordura and YKK-class zippers.",
+   "products": [
+    {
+     "name": "Modular Tactical Pack",
+     "slug": "modular-tactical-pack",
+     "summary": "MOLLE-ready backpack in 1000D Cordura with reinforced load points.",
+     "details": "A load-bearing pack designed for daily carry, travel and field use. Double-stitched stress points, padded back panel and a modular front for attachments.\n\nColours, logo placement and hardware can be fully customised for your brand.",
+     "moq": "250 units",
+     "specs": "Fabric: 1000D Cordura\nCapacity: 30-45 L\nZippers: YKK-class\nBranding: Woven label, rubber patch, screen print",
+     "custom_type": "backpack",
+     "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDf0HQuOveBxkLZ_iWeufXvNuSLp9qc7m36nCemX1E-2IHgAtDy4awO1xa7v0kuR724AmQz_kSuOD8wTs9wfw2npo8mZw12xFNoRWA4uTJKD6OqcNhE054yrbVQaLQcG8x60fCfTLR0VjqBHqtVjvjyDMtwnwEUkUfMF8hACSlZJtDCqiBhspF2_FcaHD9VHXEZ-EBZxXmQvQy4Kjxx5vy0BvS8NVy_-TCrli-C5XI"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Hard & Soft Luggage",
+   "slug": "luggage",
+   "description": "Totes and soft luggage for retail and promotional programmes.",
+   "products": [
+    {
+     "name": "Commercial Tote & Shopper",
+     "slug": "commercial-tote-shopper",
+     "summary": "Strong everyday tote in canvas or polyester with reinforced handles.",
+     "details": "A simple, high-volume bag for retail, events and brand gifting. Choose fabric, handle length and print to match your brand.",
+     "moq": "500 units",
+     "specs": "Fabric: Canvas / 600D polyester\nHandles: Reinforced webbing\nBranding: Screen print, embroidery",
+     "custom_type": "tote",
+     "images": []
+    }
+   ]
+  },
+  {
+   "name": "Specialized Sports Duffels",
+   "slug": "sports-duffels",
+   "description": "Gym, MMA and expedition duffels with ventilated compartments.",
+   "products": [
+    {
+     "name": "Heavy-Duty Sports Duffel",
+     "slug": "heavy-duty-sports-duffel",
+     "summary": "Water-resistant duffel with ventilated shoe vault and sealed seams.",
+     "details": "Built for gyms, teams and expeditions. Separate shoe compartment, padded shoulder strap and reinforced seatbelt-webbing handles.",
+     "moq": "200 units",
+     "specs": "Fabric: 900D Oxford / tarpaulin\nCapacity: 40-70 L\nFeatures: Ventilated shoe vault, sealed seams",
+     "custom_type": "duffel",
+     "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDWpZovT4GYpjxzVn_aiDwupBtTSWgRiZEE_vBLqy_607Ati7fNYQX6uha5sOEPH8wXB0HdnHg1shO9Zodk-AEgy45J4oSCJYww91B3dyx_nC_DwTpEfN2euU1_aP-9_g09RW2mWl91fM0ChnwuIaufqgo0jIvXmN5AlGNtqT-MfNSIDSeyeP96aMKJCEowrCeJ2GVw7SpbmA-CqMnOL-cOzIK281BXekDzkdRUhEM"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "OEM Precision Accessories",
+   "slug": "accessories",
+   "description": "Organizers, pouches and drawstring packs.",
+   "products": [
+    {
+     "name": "Travel Organizer Cubes",
+     "slug": "travel-organizer-cubes",
+     "summary": "Ultra-light ripstop packing cubes and pouches with double zippers.",
+     "details": "Compression packing cubes and organizer pouches in honeycomb ripstop. Perfect for retail travel ranges.",
+     "moq": "500 sets",
+     "specs": "Fabric: Ripstop nylon\nZippers: Double-pull\nBranding: Woven label, heat transfer",
+     "custom_type": "pouch",
+     "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDjgOxX0ymwiypxe3NSlxOd5trFMC4gQMkkZAKgJHF24r1uOrlfu_SWo495B-nMethBZtgqZi16dimmFlaksSGOyw-dRrUyFf756crAIlz4_iud29n8bi-A9Cs0G5KD2L09swjxpM7LooNsw5i7rOfFnEOpO26-mnBOLulgZYQ9I4FBAGNq_bI7ii1L6Cje0CT5fjDwtu7dYXGBFGaWtmh2HB73akRELoPtqHY3LZc"
+     ]
+    },
+    {
+     "name": "Drawstring & EDC Bag",
+     "slug": "drawstring-edc-bag",
+     "summary": "Minimal everyday drawstring pack with zip security pocket.",
+     "details": "A light everyday pack with cushioned paracord drawstrings and custom screen branding.",
+     "moq": "300 units",
+     "specs": "Fabric: Ripstop / polyester\nClosure: Paracord drawstring\nBranding: Screen print",
+     "custom_type": "drawstring",
+     "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuBi6-FURRZkXNoT-hPtOd5q9R38fw-FEv8_9Su5GZwDwo_XzyIfXmc46ZQYv3TTEC5mxOTQMHb5_vkFGj9xS2XGwaNIzQ2hkiAR2kVkETYC3Rkflz11c9QVpBKYya0rj2cxvKHqs42yssrdeQxqmsvyPRy3XDZinKQhExvWcplxnoIomPHhNox1aqYDUdt2dzPN00hj6O8x1MxRn_qzXYAU8rUaSw5fSERT4Ig8i_o"
+     ]
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "title": "How to choose the right fabric for your OEM backpack",
+   "slug": "how-to-choose-oem-backpack-fabric",
+   "excerpt": "1000D Cordura, 900D Oxford, ripstop or canvas? A buyer-friendly guide to matching fabric to price, weight and durability.",
+   "content": "Choosing fabric is the single biggest decision in a private-label bag project. It changes the price, the weight, the feel in the hand and how long the bag survives in the real world. Here is how we explain it to new buyers.\n\n## 1000D Cordura nylon\nThe tactical favourite. It resists abrasion and tearing, which is why it is used for military-style packs and heavy duffels. It is heavier and costs more, so choose it when durability is the selling point.\n\n## 900D Oxford and 600D polyester\nA smart middle path. With a polyurethane coating it becomes water resistant, prints well and keeps the unit cost low. It suits school bags, gym duffels and promotional bags where the price per unit matters.\n\n## Ripstop nylon\nLight and strong. A reinforcing grid is woven into the cloth, so a small puncture does not spread. It is ideal for travel organizers, packing cubes and foldable bags.\n\n## Waxed canvas and leather-look\nThese are about style. They age beautifully and photograph well, but they are heavier and need more care. Good for lifestyle and fashion brands.\n\n## Our advice\nStart from the use case and the target retail price, then pick the fabric. Send us your tech pack or a reference bag and we will suggest two or three fabric options with sample swatches before you commit to a full run.",
+   "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDf0HQuOveBxkLZ_iWeufXvNuSLp9qc7m36nCemX1E-2IHgAtDy4awO1xa7v0kuR724AmQz_kSuOD8wTs9wfw2npo8mZw12xFNoRWA4uTJKD6OqcNhE054yrbVQaLQcG8x60fCfTLR0VjqBHqtVjvjyDMtwnwEUkUfMF8hACSlZJtDCqiBhspF2_FcaHD9VHXEZ-EBZxXmQvQy4Kjxx5vy0BvS8NVy_-TCrli-C5XI"
+  },
+  {
+   "title": "MOQ explained: how small can a custom bag order be?",
+   "slug": "custom-bag-moq-explained",
+   "excerpt": "Why factories ask for a minimum order quantity, and how to keep your first private-label run small and smart.",
+   "content": "Every new buyer asks the same question: what is the minimum order? The honest answer is that it depends on the bag, the fabric and how much of it is custom.\n\n## Why MOQ exists\nCutting patterns, setting up stitching lines and sourcing fabric all have a fixed cost. Spreading that cost over a few units makes each bag expensive. MOQ is the point where the price per unit becomes fair for both sides.\n\n## Typical starting points at Bagzinic\nTactical backpacks and luggage usually start around 200 to 250 units per colourway. Lighter accessories and drawstring packs start at about 500 units. Branded details such as woven labels or laser-cut buckles can be added from the first run.\n\n## How to keep the first order small\n- Use stock fabrics and standard colours instead of custom-dyed cloth.\n- Limit yourself to one or two colourways.\n- Start with our existing patterns and customise colours, logo and hardware.\n- Ask for a pilot run, then scale once the market responds.\n\n## Next step\nUse the 3D customizer on our website to design your bag, then send it to us. We will reply with a quotation that shows MOQ and price breaks.",
+   "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDWpZovT4GYpjxzVn_aiDwupBtTSWgRiZEE_vBLqy_607Ati7fNYQX6uha5sOEPH8wXB0HdnHg1shO9Zodk-AEgy45J4oSCJYww91B3dyx_nC_DwTpEfN2euU1_aP-9_g09RW2mWl91fM0ChnwuIaufqgo0jIvXmN5AlGNtqT-MfNSIDSeyeP96aMKJCEowrCeJ2GVw7SpbmA-CqMnOL-cOzIK281BXekDzkdRUhEM"
+  },
+  {
+   "title": "From tech pack to container: our production timeline",
+   "slug": "tech-pack-to-container-timeline",
+   "excerpt": "A simple walk-through of what happens after you send your design, and how long each stage normally takes.",
+   "content": "Buyers often tell us that the unknown is what worries them most. So here is the path every order follows.\n\n## 1. Tech pack review\nYou send a tech pack, a drawing or even a reference photo. Our engineers check materials, dimensions and stitching details and convert the bill of materials into cutting plots, normally within 72 hours.\n\n## 2. Prototype\nWe make a sample so you can feel the fabric, test the zippers and check the fit. Our prototype delivery target is 30 days. Samples travel by courier from Sialkot.\n\n## 3. Approval and deposit\nOnce you approve the sample and the deposit is agreed, we book fabric and hardware.\n\n## 4. Production\nCutting, stitching, hardware assembly and quality checks run in parallel lines. As a guide, runs below 500 units take about 20 to 25 days, up to 2,000 units about 25 to 30 days, and larger runs 35 to 45 days.\n\n## 5. Final inspection and shipping\nFinished bags are inspected, packed into cartons and shipped FOB Karachi or CIF to your destination port. You receive photos before the container leaves.\n\nTimelines depend on fabric availability and order size, and your quotation will state the dates for your project.",
+   "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDjgOxX0ymwiypxe3NSlxOd5trFMC4gQMkkZAKgJHF24r1uOrlfu_SWo495B-nMethBZtgqZi16dimmFlaksSGOyw-dRrUyFf756crAIlz4_iud29n8bi-A9Cs0G5KD2L09swjxpM7LooNsw5i7rOfFnEOpO26-mnBOLulgZYQ9I4FBAGNq_bI7ii1L6Cje0CT5fjDwtu7dYXGBFGaWtmh2HB73akRELoPtqHY3LZc"
+  },
+  {
+   "title": "Why Sialkot is a global hub for bags and sporting goods",
+   "slug": "why-sialkot-bag-manufacturing-hub",
+   "excerpt": "A short look at the city behind Bagzinic: skills, supply chain and export experience.",
+   "content": "Sialkot, in Pakistan's Punjab province, has been an export city for well over a century. It is best known for sporting goods, leather products and surgical instruments, and that experience matters for bag making too.\n\n## Skilled people\nGenerations of workers have learned cutting, stitching and finishing here. That skill shows in details such as bar-tack reinforcement, clean seams and consistent zipper installation.\n\n## A complete supply chain\nFabric, webbing, zippers, foam, printing and packaging suppliers are close by. A short supply chain means faster sampling and fewer delays when you change a colour or a component.\n\n## Export know-how\nLocal factories are used to international compliance, packing standards and shipping documents. Sialkot also has its own international airport, which helps when you need prototypes fast.\n\n## What this means for you\nYou get a partner who understands export orders and can move from sample to shipment efficiently. If you would like to see the factory first, you can book a live video tour from our About page.",
+   "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBi6-FURRZkXNoT-hPtOd5q9R38fw-FEv8_9Su5GZwDwo_XzyIfXmc46ZQYv3TTEC5mxOTQMHb5_vkFGj9xS2XGwaNIzQ2hkiAR2kVkETYC3Rkflz11c9QVpBKYya0rj2cxvKHqs42yssrdeQxqmsvyPRy3XDZinKQhExvWcplxnoIomPHhNox1aqYDUdt2dzPN00hj6O8x1MxRn_qzXYAU8rUaSw5fSERT4Ig8i_o"
+  }
+ ],
+ "gallery": [
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1Oo1Xwhk61r2I1V3lx07aRr_9o7wS5pYck8DIyLQDn4aZG7MOHuc1fG_JZuNl1G_Umzi2FB4Ow7m8KTdGe0t2yMOHhnW0_zK1g6-NKH4_g6QPPck89xm6DEVngyNuVJzw8GvKyjPGyC-oWfBxgLgACTVJhXFP33HJAhxlNHhu5db5cDvFGynd7M9sXnS-MioqUJUxwfqMbHVyeLu-bQmsmbLkjSJE-a2pbYGVHXs",
+   "caption": "Bagzinic manufacturing plant, Sialkot"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDeTdhEKonTphJpmTYtaRCr52ry7Poy9jzRL7QTCIdwCo4_xseo03BcEncwn13Smx75CyyT7nm-rBnAh7SA9f9iRO-FSTJcxXUwNeFvVCx20y8RVEXMLauZ5fA-jnyPjVyD9cibLjImU3DD6natSOwz8VCDi3wW6iHqI8rMfet9Wi7gEXZ7mUrReYWjkVXvFkla_6l5i0kp3nyn7bR3H49mUnuMUJ6RxIMueNI5tPg",
+   "caption": "Our journey"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBQIxzA29u8LgmiQ2PSu4pzdIHnxLdJMNGaVJHbO96t-KQBjSvdpH2ulHYSQ4XiM_bsIjD2V5yuBVIsTafNHpvOuV4DpRy978_tKeQnq2YmhR1Zuit-nGRXrTOD6wXSPn8l-tX2TcoO9OTb2VW5dyx42yUmRvh05rJn4XZBAdI8myMfRHRSQ536Mf-lL24U09KWPNngFptcldThZE6FiD7HNEqIrMFPWsJCbYAP6Gg",
+   "caption": "Our journey"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC1LvuGt6Ml5t2r0z6KXRo8CWzTwuUlPoPqIEG0l7CC0-fNZxo0jHwiOjfRaMej2V_1UL-nedcxwMxOFnAcemHn9pdnZCavZaDujH5q6gZwzxh49j0vqvT79ltrzuz7BctKdceZ_lEZppkjSIFDfTFpLI5zlr8mz0_0AXJsTLsOsoy76uMYN3pZKPv9ovUB26BpgrFX6KlrcDxfkJZksEev1WzL3OoKMXjZC6ROWL8",
+   "caption": "Our journey"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDHPH6iFnQdOS2vOsGH-zdbpTNZfDZ-Mh2nV6m6VsbJWZwUgRyWpSm9OGub8cx0l0BL-pHKtm_SPSxuE9TwsSBQcG5kvqK8M0aRNoiKRurr1URb073KmY-rJtFrn6M9iNTRnQOqNwdSyy7Y3Fn_LdMAC-C-RadDCYjSLgKeI-J2qsl8Q1Xupyy-NpYF5DZX6uBCPNCyA08gv0eYytQv7KD3tMuTeesJT-fifD0Pj78",
+   "caption": "Our journey"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAw4Yb4pZ1CS336K6k5YXPOLiAQX9Py8De9hBK374JR9lj6GzFAMJiDDU8REJhz4AozR_oM2qug6Tu2C7yhcWPze3AXppG5fWDHeChuc7i00vphQQBjSyDgU8QhONxiey1M8uARerDqx435LSKvaUM5LqZ2zkvn2InnIPwCqtnvVFx5QBOiimoS9iLYer1oulBcgWuuTwq_0btpxix9nMRG1YhPW6qGmsXo1NtsS1g",
+   "caption": "Our journey"
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBhqk6caW_LkrLtF-hIJxOwEytq2QSn169kke17cLf4HQi9fqZzWGRHFHxdTdwaZ08y-uxEJ12tvtJHm67cbM2N3ACxr7SMEFBSXzsq3xC7xRmzCEgsbpDDxj6TKST1zUVPVOJtKMnT_Y62RXV9_cWo8lgtzc_j3p9YAriS6deHThJNrXRn-kwAKq0i75o3ltKg1RQn2upPeuUiZpGLmk2AVM1KveOGKYsfip6FX005LMhB5SqD-Mso",
+   "caption": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAzQRUKg9wVxuCuQbwLg67UNKp-laiuZS3ek89xa79Bd2iH7AUgj1cWDu1UFIhDY6FiDWWaq_BHZr56qnmtlacCA8W00ZKIqPOA7VLaTDD0mvAoe1NKkhTLH8Dw8_Be_W2Z-e7fwkgVcc_k1ipQ8mfpmok4Yl0IYLxpcag-3XLNfxI7jhxijN5EbD6DIFIiCbAPwJbCfHhFkVvyPpKAi1ovqq2dGQvnsVFTx7FYwvL3FmRWi_BNf7hH",
+   "caption": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDjBfq0BQmSffnI1ML-VO25-6P55UHJTyKtLCqNpVDb9HdZrBftYbkicE4WFDzdvlqhEJ9Z_6l0m0jNYYkw8Q-2Opf1bBOhAgKXZA38ygPT0tkgyUFf76WMKCpqkQCvV7MW1iLbKqTD53wWf3UZrN9KqLwmXkXSf4m0XcRNFWnNQHFd0_Th0UVLluzJvduQwyt8I9M11IQ1Ieco6mAcPXd8YirWoOtJp_trJxkSwDjGkvmfSD-wYQDb",
+   "caption": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1NNrdW-LZX_LxTb2nZKjdMSURDvZQkTbwx08aOTfXBbWPtK4LhX9vopb7Hfvcs9O3TAfjRkB59CtoBIl42V0Xp6JGT70IqYbAt0FFu1EnjkeZDwKEbTNLNiVq11j0MGRJPsaAJIoiDx3HL_SGkLd9tvYEzReQpU-e9QbhoojLMp4J26L0Wc7LGEIPuBqt3RV2Crd9KDUFHfqIp11rjUvrvyZ_BvFSTmd_bYE4kii6whB1qrwCcPnm",
+   "caption": ""
+  },
+  {
+   "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCA-Iix2KJQfty5CVSQfoFEl2HBfzAwvhQZuDhGVfL6PyB1EdwHEBE1KzlZkTCtVLdRmbcbbTEKCB5BQLV5uxgviTPjU37TGylMnFg065yvsE_d-Hv5vPZ1gWhW-lVwAKbJKgYaRzs5o9mMg-svVls-dpySS13_2AxNWTL0D5REKHDUZXCkxVa84sG_DQl6NDN_EAllVq2DIE5dDqBUkhWUjqL4O61CsRevGNRtj2coJZ6hXRwbA51b",
+   "caption": ""
+  }
+ ]
+}
